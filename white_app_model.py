@@ -1,3 +1,5 @@
+#白いキャラクターの画像分類アプリを作成した際のCNNモデル
+
 import os
 import cv2
 import glob
